@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<customerList>
+	<customer id="1001">
+		<customername>Sam</customername>
+	</customer>
+	<customer id="1002">
+                <customername>Rick</customername>	
+        </customer>
+	<customer id="1003">
+                <customername>Phils</customername>
+	</customer>
+	<customer id="1004">
+                <customername>Rohan</customername>
+	</customer>
+	<customer id="1005">
+                <customername>Riksha</customername>
+	</customer>
+</customerList>

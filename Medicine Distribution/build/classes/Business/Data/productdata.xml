@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<productlist>
+	<product id="1001">
+		<productname>Xerox</productname>
+		<quantity>10000</quantity>
+		<ceilingprice>460.50</ceilingprice>
+                <floorprice>350</floorprice>
+                <targetprice>400</targetprice>
+	</product>
+	<product id="1002">
+		<productname>Printer</productname>
+		<quantity>10000</quantity>
+		<ceilingprice>258.50</ceilingprice>
+                <floorprice>200</floorprice>
+                <targetprice>230</targetprice>
+	</product>
+	<product id="1003">
+		<productname>InkJet</productname>
+		<quantity>10000</quantity>
+		<ceilingprice>350</ceilingprice>
+                <floorprice>280.50</floorprice>
+                <targetprice>315</targetprice>
+
+	</product>
+	<product id="1004">
+		<productname>cartridge</productname>
+		<quantity>1000</quantity>
+		<ceilingprice>75.80</ceilingprice>
+                <floorprice>50</floorprice>
+                <targetprice>60</targetprice>
+	</product>
+</productlist>

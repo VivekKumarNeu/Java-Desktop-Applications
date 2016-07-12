@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<DrugList>
+	<drug id="1001">
+		<drugname>Ativan</drugname>
+		<quantity>400</quantity>
+		<expiryyear>2017</expiryyear>
+		<price>2.45</price>
+                <manufacturedate>cipla</manufacturedate>
+                <volumeintake>100</volumeintake>
+                <legal>Yes</legal>
+                <weight>150</weight>
+                <DrugDesign></DrugDesign>
+	</drug>
+	<drug id="1002">
+		<drugname>Crocin</drugname>
+		<quantity>500</quantity>
+		<expiryyear>2017</expiryyear>
+		<price>4.32</price>
+                <manufacturedate>cipla</manufacturedate>
+                <volumeintake>100</volumeintake>
+                <legal>Yes</legal>
+                <weight>150</weight>
+                <DrugDesign>circle</DrugDesign>
+	</drug>
+	<drug id="1003">
+		<drugname>Lyrica</drugname>
+		<quantity>800</quantity>
+		<expiryyear>2016</expiryyear>
+		<price>5.24</price>
+                <manufacturedate>cipla</manufacturedate>
+                <volumeintake>100</volumeintake>
+                <legal>Yes</legal>
+                <weight>150</weight>
+                <DrugDesign>circle</DrugDesign>
+	</drug>
+	<drug id="1004">
+		<drugname>Adderall</drugname>
+		<quantity>650</quantity>
+		<expiryyear>2019</expiryyear>
+		<price>4.50</price>
+                <manufacturedate>cipla</manufacturedate>
+                <volumeintake>100</volumeintake>
+                <legal>No</legal>
+                <weight>150</weight>
+                <DrugDesign>circle</DrugDesign>
+	</drug>
+	<drug id="1005">
+	<drugname>Codeine</drugname>
+		<quantity>800</quantity>
+		<expiryyear>2020</expiryyear>
+		<price>6.40</price>
+                <manufacturedate>cipla</manufacturedate>
+                <volumeintake>100</volumeintake>
+                <legal>Yes</legal>
+                <weight>150</weight>
+                <DrugDesign>circle</DrugDesign>
+	</drug>
+	<drug id="1006">
+		<drugname>Metropol</drugname>
+		<quantity>1250</quantity>
+		<expiryyear>2016</expiryyear>
+		<price>5.50</price>
+                <manufacturedate>cipla</manufacturedate>
+                <volumeintake>100</volumeintake>
+                <legal>No</legal>
+                <weight>150</weight>
+                <DrugDesign>circle</DrugDesign>
+	</drug>
+	<drug id="1007">
+		<drugname>Paracetamol</drugname>
+		<quantity>300</quantity>
+		<expiryyear>2018</expiryyear>
+		<price>3.30</price>
+                <manufacturedate>cipla</manufacturedate>
+                <volumeintake>100</volumeintake>
+                <legal>Yes</legal>
+                <weight>150</weight>
+                <DrugDesign>circle</DrugDesign>
+	</drug>
+	<drug id="1008">
+		<drugname>Gabapentin</drugname>
+		<quantity>400</quantity>
+		<expiryyear>2018</expiryyear>
+		<price>2.50</price>
+                <manufacturedate>cipla</manufacturedate>
+                <volumeintake>100</volumeintake>
+                <legal>No</legal>
+                <weight>150</weight>
+                <DrugDesign>circle</DrugDesign>
+	</drug>
+	<drug id="1009">
+		<drugname>Zoloft</drugname>
+		<quantity>1500</quantity>
+		<expiryyear>2017</expiryyear>
+		<price>4.00</price>
+                <manufacturedate>cipla</manufacturedate>
+                <volumeintake>100</volumeintake>
+                <legal>Yes</legal>
+                <weight>150</weight>
+                <DrugDesign>circle</DrugDesign>
+	</drug>
+</DrugList>

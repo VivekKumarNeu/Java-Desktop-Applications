@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<Supplier>
+	<product id="1001">
+		<productname>TV</productname>
+		<quantity>400</quantity>
+		<price>130</price>
+	</product>
+	<product id="1002">
+		<productname>Refrigenerator</productname>
+		<quantity>500</quantity>
+		<price>95</price>
+	</product>
+	<product id="1003">
+		<productname>Shoes</productname>
+		<quantity>1200</quantity>
+		<price>35</price>
+
+	</product>
+	<product id="1004">
+		<productname>Laptop</productname>
+		<quantity>900</quantity>
+		<price>650</price>
+
+	</product>
+	<product id="1005">
+                <productname>Phone</productname>
+		<quantity>700</quantity>
+		<price>400</price>
+
+	</product>
+	<product id="1006">
+		<productname>Car</productname>
+		<quantity>300</quantity>
+		<price>8000</price>
+
+	</product>
+	<product id="1007">
+		<productname>Bike</productname>
+		<quantity>400</quantity>
+		<price>2000</price>
+
+	</product>
+	<product id="1008">
+		<productname>Gas</productname>
+		<quantity>1000</quantity>
+		<price>250</price>
+        </product>
+	<product id="1009">
+		<productname>Tablets</productname>
+		<quantity>500</quantity>
+		<price>1200</price>
+	</product>
+</Supplier>
